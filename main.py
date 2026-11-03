@@ -1,4 +1,4 @@
-
+# Version 2 : amélioration du programme de gestion des élèves
 def demander_nom():
     while True:
         nom = input("Nom : ").strip()
